@@ -1,0 +1,9 @@
+Enter String : Pallandromic Strings
+1. a
+2. d
+3. s
+4. l
+5. k
+6. f
+7. d
+8. s

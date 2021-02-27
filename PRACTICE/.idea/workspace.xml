@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65444952-0fda-4a17-bef7-75975b05cef3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cracking_The_Coding_Interview/dest/CountOccurence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cracking_The_Coding_Interview/dest/Swap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cracking_The_Coding_Interview/src/CountOcuurence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cracking_The_Coding_Interview/src/Swap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learn_Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes/DurgaSoft-SCJP-notes-Part-1_JavabynataraJ.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes/DurgaSoft-SCJP-notes-Part-2_JavabynataraJ.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes/Infosys_Generic_JavaSyllabus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes/Ultimate Java CheatSheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/Anonymous_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/CheckMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/ClassElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/CountSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/Example_ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/ExploringLength.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/Increment_Decrement_operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/Inheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/LetsAscii.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/Printcombination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/Sop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/ThreeD_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/UseConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/UseEqualsInString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/UseHashmap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/UseLambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/UseStringBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/cammandLineArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/employeeHashcode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/exampleClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/generateRandomValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/printingVar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/readFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/simple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/typeCasting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dest/waystoCreateObjectsinjava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Anonymous_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/CheckMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ClassElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/CountSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Example_ArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ExploringLength.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Increment_Dcrement_operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Inheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Isprime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/LetsAscii.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Printcombination.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ScanClose.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Sop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/StaticArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ThreeD_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/UseConstructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/UseEqualsInString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/UseHashmap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/UseLambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/UseStringBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/cammandLineArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/employeeHashcode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/exampleClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/generateRandomValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/printingVar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/readFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/simple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/typeCasting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/waystoCreateObjectsinjava.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iP9rSFvnrnHvuCqIm7X3vggpNb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../STRINGS" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65444952-0fda-4a17-bef7-75975b05cef3" name="Default Changelist" comment="" />
+      <created>1601798558707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601798558707</updated>
+      <workItem from="1601798560296" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1601798579735">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1601798579735" />
+  </component>
+</project>
