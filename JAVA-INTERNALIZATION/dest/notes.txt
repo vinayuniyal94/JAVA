@@ -1,0 +1,19 @@
+Default Locale Properties:
+
+India
+English
+English (India)
+IND
+eng
+en
+IN
+
+fr Locale Properties:
+
+France
+French
+French (France)
+FRA
+fra
+fr
+FR

@@ -1,0 +1,1 @@
+tee cammand used to redirect output and append it to the end of the file
